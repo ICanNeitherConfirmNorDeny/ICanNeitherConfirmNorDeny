@@ -7,7 +7,6 @@ I'm also into VR and I like building worlds and assets for them.
 
 Find my stuff interesting and/or useful in any way? Feel free to support my efforts or
 just buy me a beer.
-<a href="https://www.patreon.com/profile/creators?u=20692823">ProfessionalFrogger @ Patreon</a>
 
 --(!Confirm && !Deny)--
 
